@@ -1,6 +1,6 @@
 # BMMLabInteractomes
 
-This package contains interactomes from the BMMLab (CIML, Marseille, France)
+Interactomes from the BMMLab (CIML, Marseille, France)
 
 Installation
 ---
@@ -13,4 +13,4 @@ library(BMMLabInteractomes)
 
 Exploring the data
 ---
-To explore interactomes, we recommend using the shiny app: https://voisinneg.shinyapps.io/interact/ .
+We recommend using the shiny app: https://voisinneg.shinyapps.io/interact/ .
