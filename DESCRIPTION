@@ -1,0 +1,12 @@
+Package: BMMLabInteractomes
+Title: data package with interactomes from the BMM lab
+Version: 0.1.0
+Date: 2018-03-13
+Author: Guillaume Voisinne
+Maintainer: Guillaume Voisinne <voisinne@ciml.univ-mrs.fr>
+Description: This package contains interactomes from the BMM lab
+biocViews:
+LazyData: TRUE
+License: file LICENSE
+RoxygenNote: 6.1.1
+
